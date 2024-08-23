@@ -45,5 +45,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 For any questions or feedback, please reach out:
 
 **Email:** baig78@hackermail.com
+
 **Instagram:** https://www.instagram.com/talhabaig007/
+
 **GitHub:** https://www.github.com/talhabaig007/
